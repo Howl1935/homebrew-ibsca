@@ -19,7 +19,7 @@ This is where we can update versions of Ibsca.
 4.  Store signature in a safe place.
 5.  Create new release  
 	  ![Click releases](https://i.imgur.com/pBXxevB.png) 
-    - click `+ _ releases` link on this page
+    - click `+ _ releases` link on this page, followed by "Draft New Release".
   ![Click releases](https://i.imgur.com/JYwJlDM.png) 
     - Create a new tag
     - Add the sha256sum formula into the body of this page.
