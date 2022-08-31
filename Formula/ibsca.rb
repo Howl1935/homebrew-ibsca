@@ -1,3 +1,4 @@
+require "formula"
 require_relative "lib/private_strategy"
 
 class Ibsca < Formula
