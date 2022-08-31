@@ -1,3 +1,5 @@
+require_relative "lib/private_strategy"
+
 class Ibsca < Formula
   desc "IBSCA-CLI for static code analysis at Ibotta"
   homepage "https://github.com/ibotta/ibsca-cli"
